@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'aharide'
-  s.version               = '1.1.9'
+  s.version               = '1.1.10'
   s.summary               = 'A UI toolkit for beautiful and fast apps.'
   s.description           = <<-DESC
 Flutter is Google's UI toolkit for building beautiful, fast apps for mobile, web, desktop, and embedded devices from a single codebase.
