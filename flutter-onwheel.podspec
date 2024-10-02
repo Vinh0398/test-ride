@@ -50,7 +50,8 @@ LICENSE
     'url_launcher_ios.xcframework',
     'geolocator_apple.xcframework',
     'image_picker_ios.xcframework',
-    'google_maps_flutter_ios.xcframework'
+    'google_maps_flutter_ios.xcframework',
+    'GoogleMapsUtils.xcframework'
   ]
 
 
