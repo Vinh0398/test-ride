@@ -40,7 +40,7 @@ LICENSE
   s.author                = { 'VinhND' => 'vinh.03119@gmail.com' }
   s.source                = { :http => "https://github.com/Vinh0398/test-ride/raw/develop/flutter-onwheel.zip"}
   s.documentation_url     = 'https://flutter.dev/docs'
-  s.platform              = :ios, '14.0'
+  s.platform              = :ios, '12.0'
   s.vendored_frameworks   = [
     'App.xcframework',
     'FBLPromises.xcframework',
