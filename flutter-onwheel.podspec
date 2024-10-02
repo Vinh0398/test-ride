@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'flutter-onwheel'
-  s.version               = '1.2.19'
+  s.version               = '1.2.20'
   s.summary               = 'A UI toolkit for beautiful and fast apps.'
   s.description           = <<-DESC
 Flutter is Google's UI toolkit for building beautiful, fast apps for mobile, web, desktop, and embedded devices from a single codebase.
@@ -43,7 +43,6 @@ LICENSE
   s.platform              = :ios, '12.0'
   s.vendored_frameworks   = [
     'App.xcframework',
-    'FBLPromises.xcframework',
     'firebase_core.xcframework',
     'firebase_remote_config.xcframework',
     'FlutterPluginRegistrant.xcframework',
