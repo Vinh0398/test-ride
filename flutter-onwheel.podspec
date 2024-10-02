@@ -47,7 +47,10 @@ LICENSE
     'firebase_core.xcframework',
     'firebase_remote_config.xcframework',
     'FlutterPluginRegistrant.xcframework',
-    'url_launcher_ios.xcframework'
+    'url_launcher_ios.xcframework',
+    'GoogleMapsUtils.xcframework',
+    'geolocator_apple.xcframework',
+    'image_picker_ios.xcframework'
   ]
 
 
