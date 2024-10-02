@@ -40,7 +40,7 @@ LICENSE
   s.author                = { 'VinhND' => 'vinh.03119@gmail.com' }
   s.source                = { :http => "https://github.com/Vinh0398/test-ride/raw/develop/flutter-onwheel.zip"}
   s.documentation_url     = 'https://flutter.dev/docs'
-  s.platform              = :ios, '12.0'
+  s.platform              = :ios, '14.0'
   s.vendored_frameworks   = [
     'App.xcframework',
     'FBLPromises.xcframework',
@@ -48,10 +48,8 @@ LICENSE
     'firebase_remote_config.xcframework',
     'FlutterPluginRegistrant.xcframework',
     'url_launcher_ios.xcframework',
-    'GoogleMapsUtils.xcframework',
     'geolocator_apple.xcframework',
     'image_picker_ios.xcframework',
-    'google_maps_flutter_ios.xcframework'
   ]
 
 
