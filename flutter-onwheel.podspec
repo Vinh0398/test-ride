@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'flutter-onwheel'
-  s.version               = '1.2.17'
+  s.version               = '1.2.18'
   s.summary               = 'A UI toolkit for beautiful and fast apps.'
   s.description           = <<-DESC
 Flutter is Google's UI toolkit for building beautiful, fast apps for mobile, web, desktop, and embedded devices from a single codebase.
@@ -51,6 +51,12 @@ LICENSE
     'geolocator_apple.xcframework',
     'image_picker_ios.xcframework',
     'google_maps_flutter_ios.xcframework',
+    'FirebaseABTesting.xcframework',
+    'FirebaseCore.xcframework',
+    'FirebaseCoreInternal.xcframework',
+    'FirebaseInstallations.xcframework',
+    'FirebaseRemoteConfig.xcframework',
+    'GoogleMapsUtils.xcframework'
   ]
 
 
